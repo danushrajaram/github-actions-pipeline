@@ -1,3 +1,5 @@
+![Python CI](https://github.com/danushrajaram/github-actions-pipeline/actions/workflows/main.yml/badge.svg)
+
 # Intern Daily Progress Tracker
 
 A simple Python project for tracking daily progress of interns.
